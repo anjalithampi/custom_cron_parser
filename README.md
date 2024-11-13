@@ -23,12 +23,12 @@ Clone the repository:
 ## Example Usage
 
 # For expanded expression
-`python cron_parser.py "*/15 0 1,15 * 1-5 /usr/bin/find expanded"`
+`python3 cron_parser.py "*/15 0 1,15 * 1-5 /usr/bin/find expanded"`
 
 [OR]
 
 # For raw expression
-`python cron_parser.py "*/15 0 1,15 * 1-5 /usr/bin/find raw"`
+`python3 cron_parser.py "*/15 0 1,15 * 1-5 /usr/bin/find raw"`
 
 ## Example Output
 
